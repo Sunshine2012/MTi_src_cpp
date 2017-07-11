@@ -1,0 +1,71 @@
+datapacket_p.c.o: datapacket_p.cpp datapacket_p.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsmessage.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xstypesconfig.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xstypedefs.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/pstdint.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsbytearray.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsarray.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsstring.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsdataidentifier.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsdataidentifiervalue.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsxbusmessageid.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsdeviceid.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xstimestamp.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsquaternion.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsmath.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsushortvector.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsvector3.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsvector.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsscrdata.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsushortvector.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xstriggerindicationdata.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xseuler.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsmatrix3x3.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsmatrix.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrange.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsutctime.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgnsspvtdata.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgnsssatinfo.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpsdop.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpssol.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpssvinfo.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpstimeutc.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsbytearray.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xssnapshot.h \
+ /home/dwindra/xsens/examples/src_cpp/include/xsens/xsdeviceid.h
+datapacket_p.cpp:
+datapacket_p.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsmessage.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xstypesconfig.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xstypedefs.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/pstdint.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsbytearray.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsarray.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsstring.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsdataidentifier.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsdataidentifiervalue.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsxbusmessageid.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsdeviceid.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xstimestamp.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsquaternion.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsmath.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsushortvector.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsvector3.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsvector.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsscrdata.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsushortvector.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xstriggerindicationdata.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xseuler.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsmatrix3x3.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsmatrix.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrange.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsutctime.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgnsspvtdata.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgnsssatinfo.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpsdop.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpssol.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpssvinfo.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsrawgpstimeutc.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsbytearray.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xssnapshot.h:
+/home/dwindra/xsens/examples/src_cpp/include/xsens/xsdeviceid.h:
